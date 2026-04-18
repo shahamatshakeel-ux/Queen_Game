@@ -1,0 +1,2 @@
+
+ALTER VIEW public.leaderboard SET (security_invoker = true);

@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS "Users can insert their own game history" ON public.game_history;
