@@ -8,7 +8,7 @@ const DEVELOPER = {
   bio2: "Currently, I am focusing on improving my skills in programming and exploring innovative ideas in the field of technology. I am always eager to learn new tools and grow as a developer while building impactful projects.",
   github: "https://github.com/shahamatshakeel-ux",
   linkedin: "https://www.linkedin.com/in/shahamat-shakeel-1b4601403",
-  email: "shahamatshakeel@example.com", // TODO: replace with real email
+  email: "shahamatshakeel@gmail.com", // TODO: replace with real email
   initials: "SS",
 };
 
